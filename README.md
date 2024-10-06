@@ -6,9 +6,9 @@ E-book | Guia de FastAPI para iniciantes: escrita e imagem criadas junto com IA'
 ## 🤖 Tecnologias Utilizadas
 IA's Generativas ->
 
-**[Gemini](https://gemini.google.com/app)**.
+**[Gemini](https://gemini.google.com/app)**
 
-**[Midjourney](https://gemini.google.com/app)** p/ a criação da imagem da capa. 
+**[Midjourney](https://gemini.google.com/app)** 
 
 ## 🧐 Processo de Criação
 O livro/texto foi sendo traçado por mini capítulos/etapas aonde fui integrando a capacidade do Gemini em trazer demonstrações e estruturar tópicos objetivos junto com os meus conhecimentos prévios que foram filtrando o mais ideal tanto para esse projeto rápido quanto para a dinâmica do processo. 
