@@ -1,16 +1,19 @@
 # FastAPI: Um guia feito com uso da Gemini, ferramenta de IA generativa da Google. 
  
 ## 📒 Descrição
-Este e-book de 5 páginas explora o impacto revolucionário das IAs Generativas no nosso dia a dia e como elas moldarão o futuro.
+E-book | Guia de FastAPI para iniciantes: escrita e imagem criadas junto com IA's generativas e boas técnicas de Engenharia de prompt.
 
 ## 🤖 Tecnologias Utilizadas
-- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
+IA's Generativas ->
+
+**[Gemini](https://gemini.google.com/app)**.
+
+**[Midjourney](https://gemini.google.com/app)** p/ a criação da imagem da capa. 
 
 ## 🧐 Processo de Criação
-Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Leonardo AI" foi usado para gerar imagens exclusivas para o nosso e-book. Para concluir, a montagem final foi feita no Libre Office, por ser uma ferramenta open-source para edição de texto.
+O livro/texto foi sendo traçado por mini capítulos/etapas aonde fui integrando a capacidade do Gemini em trazer demonstrações e estruturar tópicos objetivos junto com os meus conhecimentos prévios que foram filtrando o mais ideal tanto para esse projeto rápido quanto para a dinâmica do processo. 
+
+A imagem da capa veio após a conclusão do conteúdo do livro, sendo a mesma a etapa mais lúdica e expressiva imaginando algo que pudesse gerar um contexto e um impacto em quem houvesse de ter contato com o e-book.  
 
 ## 🚀 Resultados
-O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
-
-## 💭 Reflexão (Opcional)
-Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
+Pude explorar as IA's citadas em desenvolvimento enquanto aprendia mais a respeito do próprio assunto do produto final que foi nada menos do que um resultado impressionante, ágil, elucidativo e bem estruturado.
